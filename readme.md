@@ -6,6 +6,7 @@ In this project, we will be analyzing data associated with The Movie Database (T
 1. Which companies are the best in the genre of movie we are targeting ?
 1. Does having a website for the genre that is of interest to us help improve revenue ?
 
+There are two ipynb files : one that is my draft (it has "draft" in its name) and one that is the report (it is the one I am submiting)
 
 > **Report date : December 2022**     
 > **Written by : [Ekoue LOGOSU-TEKO](https://www.linkedin.com/in/ekouelogosuteko/?locale=en_US)**
